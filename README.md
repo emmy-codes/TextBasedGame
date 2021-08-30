@@ -1,4 +1,4 @@
-# TextBasedGame
+# TextBasedGame (Solo project)
 
 This was my first exposure to JavaScript and I instantly went for the option to make a text based game when our Industry Leader offered it.
 
