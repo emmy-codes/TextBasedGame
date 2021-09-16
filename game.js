@@ -1,4 +1,4 @@
-/*  all white text are words made manually by me :)
+/*  all blue text are words made manually by me :)
 each "let" variable below is connected to the html like
 a CSS element! the document.querySelector is looking for
 the '.input' etc in the HTML before it reacts */
@@ -57,6 +57,8 @@ form.addEventListener('submit', function (event) { // submit event is a real thi
     let availableOptionsForAction = currentPage[action]; // ['Treestump'] 
 
     // get .hidden.Look (or .Get / .Go)
+
+    
     let hiddenText = document.querySelector('.hidden' + '.' + action);
 
     if (action === 'Look' || action === 'Get' || action === 'Use') {
