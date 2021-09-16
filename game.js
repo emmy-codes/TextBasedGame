@@ -7,11 +7,11 @@ let inputField = document.querySelector('.input');
 let form = document.querySelector('.form');
 let page = document.querySelector('.gamebox');
 // querySelector works a bit like CSS and is connected to HTML
-let page1URL = '/C:/Users/Admin/Desktop/Babycodes/JS%20game/mainForest.html';
-let page2URL = '/C:/Users/Admin/Desktop/Babycodes/JS%20game/ruinsSouth.html';
-let page3URL = '/C:/Users/Admin/Desktop/Babycodes/JS%20game/streamWest.html';
-let page4URL = '/C:/Users/Admin/Desktop/Babycodes/JS%20game/wallEast.html';
-let page5URL = '/C:/Users/Admin/Desktop/Babycodes/JS%20game/cottageNorth.html';
+let page1URL = 'mainForest.html';
+let page2URL = 'ruinsSouth.html';
+let page3URL = 'streamWest.html';
+let page4URL = 'wallEast.html';
+let page5URL = 'cottageNorth.html';
 
 let pagesOptions = { // a variable with a curly bracer is an object
     page1: { // mainForest
