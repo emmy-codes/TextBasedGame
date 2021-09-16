@@ -13,7 +13,7 @@ let page3URL = 'streamWest.html';
 let page4URL = 'wallEast.html';
 let page5URL = 'cottageNorth.html';
 
-let pagesOptions = { // a variable with a curly bracer is an object
+let pagesOptions = { // a variable with a curly bracer is an objectg
     page1: { // mainForest
         Look: ['Treestump'],
         Go: ['East', 'North', 'South', 'West'],
